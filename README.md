@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ NexusShop — Full-Stack MERN E-Commerce Platform
 
 A production-ready e-commerce application built with the MERN stack (MongoDB, Express.js, React, Node.js), featuring JWT authentication, Redux state management, and a polished dark-mode UI.
@@ -252,3 +253,6 @@ node seeder.js -d
 | Auth | JWT + Bcrypt |
 | Uploads | Multer |
 | Dev | Nodemon, React Scripts |
+=======
+# nexusshop
+>>>>>>> 5dee67c880694ca03738fcda103822e0fedcaa53
